@@ -11,6 +11,7 @@ brew install flow
 [quickfix](https://github.com/ryyppy/flow-vim-quickfix)
 
 ```vim
+Plug 'flowtype/vim-flow'
 " https://github.com/pangloss/vim-javascript#configuration-variables
 " syntax highlight
 let g:javascript_plugin_flow = 1
